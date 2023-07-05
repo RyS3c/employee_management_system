@@ -1,0 +1,10 @@
+.navbar-nav {
+  flex-direction: row;
+  align-items: center;
+  background-color: blueviolet;
+  border-radius: 20px;
+}
+
+.navbar-nav .form-inline {
+  margin-left: auto;
+}
